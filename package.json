@@ -1,0 +1,25 @@
+{
+  "name": "api-rest-nodejs",
+  "version": "1.0.0",
+  "description": "API-REST creada en Nodejs",
+  "keywords": [
+    "Nodejs",
+    "API",
+    "API-REST"
+  ],
+  "homepage": "https://github.com/OurScorpion045/Curso-Midulive#readme",
+  "bugs": {
+    "url": "https://github.com/OurScorpion045/Curso-Midulive/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OurScorpion045/Curso-Midulive.git"
+  },
+  "license": "MIT",
+  "author": "Mario Alejandro Hernandez Lopez -- OurScorpion045",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
